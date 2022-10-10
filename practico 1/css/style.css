@@ -1,0 +1,62 @@
+.estilo1 { 
+    color: whitesmoke; 
+    text-align: center; 
+}
+h1 {
+    font-size: 60px;
+    color: chartreuse; 
+}  
+body{
+    background-image: url("../imgs/IMG-20201111-WA0013.jpg");
+    background-position:initial;
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+.estilo2 {
+    color:limegreen;
+    font-size: 20px;
+    font-style: normal;
+    
+}
+.estilo3{
+    text-align: start;
+    text-justify: auto;
+    text-align-last: right;
+    font-family:'Lato';
+    text-transform: capitalize;
+    font-size: 15px;
+    
+
+}
+section{
+    height: 70px;
+    width: 100%;
+    padding-top: 3%;
+   
+ }   
+.cajas{
+    width: 30%;
+    text-align: center;
+    
+} 
+#menu{
+    display: flex;
+    padding: 1% 30%;
+    width: 500px;
+    height: 40px;
+    text-align-last: center;
+    }    
+h4{
+    color: white;
+    text-transform: capitalize;
+}
+.estilo5{
+    color:blue;
+}
+h5{
+    color: black;
+    text-align:justify;
+}
+span{
+    color: coral;
+}
